@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    border: 1px solid green;
+    margin: 0;
+    padding: 0;
+}
+
+#kingsley{
+    position: absolute;
+    width: 70%;
+    height: auto
+}
+
+#right-vec{
+    position: absolute;
+    right: 0;
+    width: 45%;
+    height: auto;
+}
+
+.logo a{
+    text-transform: capitalize;
+    color: white;
+}
+
+.logo a div{
+    width: 7px;
+    height: 7px;
+    background: white;
+    border-radius: 50%;
+    
+}
